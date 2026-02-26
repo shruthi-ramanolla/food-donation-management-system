@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Donate Food - FoodBridge</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <div class="logo">🍱 FoodBridge</div>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="donor.html">Donate Food</a>
+        <a href="ngo.html">NGO</a>
+        <a href="admin.html">Admin</a>
+        <a href="login.html">Login</a>
+    </nav>
+</header>
+
+<section class="form-section">
+    <h1>Donate Food</h1>
+
+    <form id="donationForm">
+        <input type="text" id="foodName" placeholder="Food Name" required>
+        <input type="number" id="quantity" placeholder="Quantity (Plates)" required>
+        <input type="text" id="location" placeholder="Pickup Location" required>
+        <input type="time" id="donationTime" required>
+        <select id="foodType">
+            <option value="Veg">Veg</option>
+            <option value="Non-Veg">Non-Veg</option>
+        </select>
+
+        <button type="submit">Submit Donation</button>
+    </form>
+
+    <p id="successMessage"></p>
+</section>
+
+<script src="js/script.js"></script>
+
+</body>
+</html>

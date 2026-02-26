@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin Dashboard - FoodBridge</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header>
+    <div class="logo">🍱 FoodBridge</div>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="donor.html">Donate Food</a>
+        <a href="ngo.html">NGO</a>
+        <a href="admin.html">Admin</a>
+        <a href="login.html">Login</a>
+    </nav>
+</header>
+
+<section class="admin-section">
+    <h1>Admin Dashboard</h1>
+
+    <div class="stats">
+        <div class="stat-card">
+            <h2 id="totalDonations">0</h2>
+            <p>Total Donations</p>
+        </div>
+    </div>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Food Name</th>
+                <th>Quantity</th>
+                <th>Location</th>
+                <th>Type</th>
+                <th>Time</th>
+                <th>Status</th>
+                <th>Delivered To</th>
+            </tr>
+        </thead>
+        <tbody id="adminTable">
+        </tbody>
+    </table>
+</section>
+
+<script src="js/script.js"></script>
+
+</body>
+</html>
