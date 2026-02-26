@@ -66,7 +66,13 @@ Donor → Website → Admin → NGO → Beneficiary
 ---
 
 ## 📷 Screenshots
-(Add project screenshots here)
+<img width="1920" height="1080" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/e826252f-da47-423a-a43f-8bda4d23cb7a" />
+<img width="1920" height="1080" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/8c6dc832-e509-4060-9ad7-45b68c8e401d" />
+<img width="1920" height="1080" alt="Screenshot (101)" src="https://github.com/user-attachments/assets/c05ba4f3-c10f-4ce1-9f37-0b0a80c2c745" />
+<img width="1920" height="1080" alt="Screenshot (102)" src="https://github.com/user-attachments/assets/deef21d8-bfff-43cb-bd28-3125f2d07bc3" />
+<img width="1920" height="1080" alt="Screenshot (103)" src="https://github.com/user-attachments/assets/6efb9415-b2f5-4290-bdd3-cea5a89d9cd3" />
+
+
 
 ---
 
